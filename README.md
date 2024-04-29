@@ -1,7 +1,9 @@
-# SETUP
+# Setup
 1. add test-setup.ts to support TestBed
     a. Initialise Testbed
     b. Add zone.js
+
+# NOTES
 2. runs on jsdom by default
 3. can install vitest/browser plugin (mostly for component UI)
 4. there's an extension to support UI testing
